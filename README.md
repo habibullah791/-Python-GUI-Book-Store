@@ -1,1 +1,3 @@
-# Book Store GUI based on python Tkinter with MySql database connectivity
+# Python-GUI-Book-Store
+# -Python-GUI-Book-Store
+# -Python-GUI-Book-Store
